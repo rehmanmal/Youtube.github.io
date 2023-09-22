@@ -1,0 +1,12 @@
+@media (max-width:350px) and (min-width:1000px){
+    nav{
+        width: 500px;
+    }
+}
+
+@media (max-width:350px) and (min-width:1000px){
+    nav{
+        display: grid;
+        flex-direction: column;
+    }
+}
